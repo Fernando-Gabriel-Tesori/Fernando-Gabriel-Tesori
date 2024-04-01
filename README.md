@@ -1,10 +1,20 @@
 ### BEM VINDO AO MEU PERFIL DO GIT HUB/WELCOME TO MY GIT HUB PROFILE
-
+<br>
+<br>
 Eu sou o Fernando um programador Front-end, estou aprendendo e criando projetos com:
+<br>
+<br>
 -HTML
+<br>
+<br>
 -CSS 
+<br>
+<br>
 -javaScript 
--React 
+<br>
+<br>
+-React
+<br>
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 <br>
