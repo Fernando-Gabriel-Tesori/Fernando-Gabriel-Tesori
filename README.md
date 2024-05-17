@@ -3,9 +3,6 @@
 <br>
 Eu sou o Fernando um programador Front-end,e back-end, estou aprendendo e criando projetos com:
 
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-<br>
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
