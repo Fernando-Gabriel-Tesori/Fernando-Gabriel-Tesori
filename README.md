@@ -72,8 +72,9 @@ Me formei no **Dev Club** com **Rodolfo Mori**, onde trabalhei em projetos reais
 
 ###  Projetos em destaque
 - **Projeto Web DataFlux** – Aplicação de gestão inteligente de dados com React + Node.js  
-- [Veja mais projetos aqui](https://github.com/Fernando-Gabriel-Tesori?tab=repositories)
-
+ -(https://github.com/Fernando-Gabriel-Tesori/interface-burgueria2)
+ -(https://github.com/Fernando-Gabriel-Tesori/API-J.W.T2.3)
+  [[Veja mais projetos aqui](https://github.com/Fernando-Gabriel-Tesori?tab=repositories)]
 ---
 
 🔗 Obrigado por visitar meu perfil!  
