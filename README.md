@@ -46,6 +46,8 @@ Me formei no **Dev Club** com **Rodolfo Mori**, onde trabalhei em projetos reais
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-0F4C81?style=for-the-badge&logo=thunderclient&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Biome.js](https://img.shields.io/badge/Biome.js-FF6F61?style=for-the-badge&logo=biome&logoColor=white)
+
 
 
 ---
