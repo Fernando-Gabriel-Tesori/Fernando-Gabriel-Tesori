@@ -38,6 +38,16 @@ Me formei no **Dev Club** com **Rodolfo Mori**, onde trabalhei em projetos reais
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![JSON Web Tokens](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![UUID](https://img.shields.io/badge/UUID-4B32C3?style=for-the-badge&logo=uuid&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-2D3748?style=for-the-badge&logo=multer&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-1A1A1A?style=for-the-badge&logo=key&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-00599C?style=for-the-badge&logo=web&logoColor=white)
+
 
 #### Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,6 +61,10 @@ Me formei no **Dev Club** com **Rodolfo Mori**, onde trabalhei em projetos reais
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-0F4C81?style=for-the-badge&logo=thunderclient&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Biome.js](https://img.shields.io/badge/Biome.js-FF6F61?style=for-the-badge&logo=biome&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Sucrase](https://img.shields.io/badge/Sucrase-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Cross Env](https://img.shields.io/badge/Cross--Env-008000?style=for-the-badge&logo=envoyproxy&logoColor=white)
+![Sequelize CLI](https://img.shields.io/badge/Sequelize--CLI-3993DD?style=for-the-badge&logo=terminal&logoColor=white)
 
 
 
