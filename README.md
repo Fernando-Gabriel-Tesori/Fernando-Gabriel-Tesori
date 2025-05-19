@@ -1,27 +1,26 @@
-<h1 align="center">Olá! Eu sou o Fernando Tesori 👋</h1>
+<h1 align="center">Olá! Eu sou o Fernando Tesori </h1>
 
 <p align="center">
-  Desenvolvedor Web Full Stack • Dev Club • Projetos reais com Front e Back-End<br/>
-  <strong>Foco em aplicações modernas, performáticas e com código limpo</strong>
+  Desenvolvedor Web Full Stack | Dev Club | Projetos reais com Front e Back-End<br/>
+  Foco em aplicações modernas, performáticas e com código limpo
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+### Sobre mim
 
-Sou um desenvolvedor web apaixonado por tecnologia e com experiência prática em aplicações completas utilizando tecnologias modernas do ecossistema JavaScript.
+Sou um desenvolvedor web apaixonado por tecnologia, com experiência prática em aplicações completas utilizando tecnologias do ecossistema JavaScript.  
+Me formei no **Dev Club** com **Rodolfo Mori**, onde trabalhei em projetos reais com boas práticas e organização de código.
 
-🎓 Formado pelo **Dev Club** com **Rodolfo Mori**, atuei em projetos reais, focando em boas práticas, escalabilidade e organização de código.
-
-- 🔥 Foco em **Front-end com React** e **Back-end com Node.js/Express**
-- ✨ Código **limpo**, **modular**, **reutilizável** e **escalável**
-- 🚀 Amo transformar ideias em **soluções reais que impactam pessoas**
+- Foco: Front-end com React e Back-end com Node.js/Express  
+- Código limpo, reutilizável, modular e escalável  
+- Amo transformar ideias em soluções que impactam pessoas
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia
+### Tecnologias que uso no dia a dia
 
-### 🧩 Front-End
+#### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,36 +30,35 @@ Sou um desenvolvedor web apaixonado por tecnologia e com experiência prática e
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### 🧪 Back-End
+#### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-
-### 🔒 Autenticação & Segurança
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![UUID](https://img.shields.io/badge/UUID-4B32C3?style=for-the-badge&logo=uuid&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-2D3748?style=for-the-badge&logo=multer&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-1A1A1A?style=for-the-badge&logo=key&logoColor=white)
 ![CORS](https://img.shields.io/badge/CORS-00599C?style=for-the-badge&logo=web&logoColor=white)
 
-### ⚙️ Dev Tools & Produtividade
+#### Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🧹 Qualidade & Boas Práticas
+#### Qualidade e Produtividade
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![Biome.js](https://img.shields.io/badge/Biome.js-FF6F61?style=for-the-badge&logo=biome&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-0F4C81?style=for-the-badge&logo=thunderclient&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Biome.js](https://img.shields.io/badge/Biome.js-FF6F61?style=for-the-badge&logo=biome&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Sucrase](https://img.shields.io/badge/Sucrase-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Cross Env](https://img.shields.io/badge/Cross--Env-008000?style=for-the-badge&logo=envoyproxy&logoColor=white)
@@ -68,7 +66,7 @@ Sou um desenvolvedor web apaixonado por tecnologia e com experiência prática e
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-Gabriel-Tesori&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
@@ -77,29 +75,26 @@ Sou um desenvolvedor web apaixonado por tecnologia e com experiência prática e
 
 ---
 
-## 💼 Projetos em destaque
+### Contato
 
-- 🔧 **[interface-burgueria2](https://github.com/Fernando-Gabriel-Tesori/interface-burgueria2)**  
-  Interface moderna para sistema de pedidos — React + Styled Components
-
-- 🔐 **[API-J.W.T2.3](https://github.com/Fernando-Gabriel-Tesori/API-J.W.T2.3)**  
-  Backend com autenticação JWT, cadastro e login — Node.js + MongoDB
-
-🔍 [Veja todos os projetos no meu GitHub](https://github.com/Fernando-Gabriel-Tesori?tab=repositories)
+- Email: [fernandotesori.dev@gmail.com](mailto:fernandotesori.dev@gmail.com)
+- Portfólio: *em breve...*
 
 ---
 
-## 📬 Contato
+### Projetos em destaque
 
-- 📧 Email: [fernandotesori.dev@gmail.com](mailto:fernandotesori.dev@gmail.com)
-- 🌐 Portfólio: *Em breve...*
+- **Projeto Web DataFlux** – Aplicação de gestão inteligente de dados com React + Node.js  
+  - [Interface Burgueria](https://github.com/Fernando-Gabriel-Tesori/interface-burgueria2)  
+  - [API JWT](https://github.com/Fernando-Gabriel-Tesori/API-J.W.T2.3)  
+  - [[Veja mais projetos aqui](https://github.com/Fernando-Gabriel-Tesori?tab=repositories)]
 
 ---
 
-## 🤝 Vamos conversar!
+🔗 Obrigado por visitar meu perfil!  
+Sempre aberto para colaborações, freelas e ideias novas.  
+**Vamos construir algo juntos! 💡🚀**
 
-Sempre aberto para colaborações, freelas e novas ideias.  
-Se quiser construir algo incrível comigo, é só chamar! 💡🚀
 
 
 
