@@ -78,7 +78,7 @@ Me formei no **Dev Club** com **Rodolfo Mori**, onde trabalhei em projetos reais
 ### Contato
 
 - Email: [fernandotesori.dev@gmail.com](mailto:fernandotesori.dev@gmail.com)
-- Portfólio: [Portifólio](https://fernando-gabriel-tesori.github.io/Portifolio/)
+- [Portifólio](https://fernando-gabriel-tesori.github.io/Portifolio/)
 
 ---
 
